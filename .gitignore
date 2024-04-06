@@ -1,0 +1,4 @@
+.env
+__pycache__/
+.vscode
+full_pipeline_RAG.ipynb
